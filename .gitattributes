@@ -1,1 +1,26 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/INSTALL -text
+/Makefile.am -text
+/Makefile.in -text
+/NEWS -text
+/README -text
+/aclocal.m4 -text
+/ap_include.am -text
+/apertium-eng-ina.eng-ina.dix -text
+/apertium-eng-ina.eng-ina.lrx -text
+/apertium-eng-ina.eng-ina.t1x -text
+/apertium-eng-ina.eng-ina.t2x -text
+/apertium-eng-ina.eng-ina.t3x -text
+/apertium-eng-ina.ina-eng.lrx -text
+/apertium-eng-ina.ina-eng.t1x -text
+/apertium-eng-ina.ina-eng.t2x -text
+/apertium-eng-ina.ina-eng.t3x -text
+/autogen.sh -text
+/configure -text
+/configure.ac -text
+/install-sh -text
+/missing -text
+/modes.xml -text
