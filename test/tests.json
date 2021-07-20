@@ -1,0 +1,10 @@
+{
+    "eng-ina": {
+        "input": "eng-ina-input.txt",
+        "mode": "eng-ina"
+    },
+    "ina-eng": {
+        "input": "ina-eng-input.txt",
+        "mode": "ina-eng"
+    }
+}

@@ -1,0 +1,10 @@
+[7q8LsfmXTARr#0] ^default<default>{^thing<n><sg>$}$
+[/7q8LsfmXTARr]
+[SN1yFCirG6C-#0] ^default<default>{^bearish<adj>$}$
+[/SN1yFCirG6C-]
+[WOhunbTfLzry#0] ^unknown<unknown>{^*phar$}$
+[/WOhunbTfLzry]
+[Yxo7S4fq6C6L#0] ^unknown<unknown>{^*habegrate$}$
+[/Yxo7S4fq6C6L]
+[rjjvD8Nu7RY4#0] ^default<default>{^intercourse<n><pl>$}$
+[/rjjvD8Nu7RY4]

@@ -1,0 +1,10 @@
+[97q2slW_wIyZ#0] ^default<default>{^germano<n><pl>$}$
+[/97q2slW_wIyZ]
+[elF57swP4Ydg#0] ^default<default>{^ave<n><sg>$}$
+[/elF57swP4Ydg]
+[oyh2xh-Pg3uj#0] ^default<default>{^morir<vblex><ger>$}$
+[/oyh2xh-Pg3uj]
+[usF62HAv8A7c#0] ^unknown<unknown>{^*noteso$}$
+[/usF62HAv8A7c]
+[y2fmzEnSP0Q0#0] ^unknown<unknown>{^*aragin$}$
+[/y2fmzEnSP0Q0]

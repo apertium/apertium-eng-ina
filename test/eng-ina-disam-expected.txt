@@ -1,0 +1,10 @@
+[97q2slW_wIyZ#0] ^germans/German<n><pl>$
+[/97q2slW_wIyZ]
+[elF57swP4Ydg#0] ^bird/bird<n><sg>$
+[/elF57swP4Ydg]
+[oyh2xh-Pg3uj#0] ^dying/die<vblex><pprs>/die<vblex><subs>/die<vblex><ger>$
+[/oyh2xh-Pg3uj]
+[usF62HAv8A7c#0] ^noteso/*noteso$
+[/usF62HAv8A7c]
+[y2fmzEnSP0Q0#0] ^aragin/*aragin$
+[/y2fmzEnSP0Q0]
